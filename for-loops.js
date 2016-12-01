@@ -16,3 +16,5 @@ var presidentsLength = presidents.length;
 		console.log("President #" + (i + 1) + " was " + presidents[i]);
 	}
 	
+
+
