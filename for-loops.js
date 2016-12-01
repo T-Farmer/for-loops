@@ -4,7 +4,7 @@ for(var i = 5; i <= 120; i+=10){
 
 
 
-for(var i = 4096; i >= 4096; i /= 2){
+for(var i = 4096; i >= 1; i /= 2){
 	console.log(i);
 }
 
